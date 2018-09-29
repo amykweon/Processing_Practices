@@ -72,7 +72,6 @@ These are the practice codes that I used to learn Processing. Some of the codes 
  Practice_12_Circle_Packing_Random__Random_Color_: Circle packing with vibrating circles that have random color assigned.<br/>
  Practice_12_Rotating_Rect: Rectangles rotating in turns.<br/>
  Practice_13_Lines_in_the_Circle: Thin lines drawn inside an invisible circle.<br/>
- Practice_13_Photo_Mosaic: Mosaic of a huge picture using other smaller pictures<br/>
  Practice_14_Connect_to_Arduino: Practicing importing Arduino value to Processing<br/>
  Practice_15_CirclePacking_Area_Assigned: Circles created in an assigned area. Area assigned using a picture.<br/>
  Practice_15_CirclePacking_Image: Mosaic of an image with circling packing fuction.<br/>
