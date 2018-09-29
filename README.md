@@ -60,3 +60,19 @@ These are the practice codes that I used to learn Processing. Some of the codes 
  Practice_8_Smoke_Moving_and_Hidden: Particles do not appear when mouse is not pressed.<br/>
  
 # Practice #3
+ Practice_9_Fish: Fish image changing direction as it encounters the edge<br/>
+ Practice_9_Fish2: New fish image generated at the mouse location when the mouse is clicked.<br/>
+ Practice_9_Leaves: Leaf images in falling motion. Each image with different hue.<br/>
+ Practice_10_Chrome_Game: Imitate Chrome's offline game. Spacebar as a jump key. When a circle touches the rectangle bar, the game stops<br/>
+ Practice_10_Cricles_and_Lines: a grid of circles with a line in eahc one. Lines' edges direct at the mouse's location.<br/>
+ Practice_10_Drawing_Tool: Automatic drawing tool with lines and dots with different hue. Draws an imported picture.<br/>
+ Practice_10_Stars: A 'Star wars' effect which circle particles. An effect that looks like a particle is approaching towards the screen, or moving foward.<br/>
+ Practice_11_Movie_Barcode: Each frame of a video gets compressed to create a picture that looks like a color barcode.<br/>
+ Practice_12_Circle_Packing_Random: Circle packing with vibrating circles<br/>
+ Practice_12_Circle_Packing_Random__Random_Color_: Circle packing with vibrating circles that have random color assigned.<br/>
+ Practice_12_Rotating_Rect: Rectangles rotating in turns.<br/>
+ Practice_13_Lines_in_the_Circle: Thin lines drawn inside an invisible circle.<br/>
+ Practice_13_Photo_Mosaic: Mosaic of a huge picture using other smaller pictures<br/>
+ Practice_14_Connect_to_Arduino: Practicing importing Arduino value to Processing<br/>
+ Practice_15_CirclePacking_Area_Assigned: Circles created in an assigned area. Area assigned using a picture.<br/>
+ Practice_15_CirclePacking_Image: Mosaic of an image with circling packing fuction.<br/>
